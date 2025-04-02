@@ -1,0 +1,15 @@
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\controller\EstudianteController.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\dto\docentedto.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\dto\EstudianteDTO.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\dto\materiadto.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\exeption\ErrorResponse.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\exeption\EstudianteNotFoundException.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\exeption\GlobalExceptionHandler.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\MiProyectoSpringBotApplication.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\model\docente.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\model\Estudiante.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\model\materia.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\model\Persona.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\repository\EstudianteRepository.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\service\IEstudianteService.java
+C:\spring\mi-proyecto-spring-bot\src\main\java\com\universidad\service\impl\EstudianteServiceImpl.java
